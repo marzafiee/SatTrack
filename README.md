@@ -39,7 +39,7 @@
  
  ## Database Design - ERD Diagram
  <p align="center">
-   <img src="documents/ERD_Diagram.PNG" alt="ERD diagram" width="700">
+   <img src="documents/ERD_Diagram.png" alt="ERD diagram" width="700">
  </p>
  
  

@@ -68,7 +68,7 @@
  
  ### Dashboard
  <p align="center">
-   <img src="assets/images/dashboard.PNG" alt="faculty_dash" width="700">
+   <img src="assets/images/dashboard.PNG" alt="dashboard" width="700">
  </p>
   
  ### Logout
@@ -78,7 +78,7 @@
  
  ## System Flow Diagram
  <p align="center">
-   <img src="assets/images/sys-flow.PNG" alt="logout page" width="700">
+   <img src="assets/images/sys-flow.PNG" alt="sys flow" width="700">
  </p>
 
 

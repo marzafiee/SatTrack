@@ -1,8 +1,4 @@
-<?php require_once 'includes/db_config.php'; 
-ini_set('display_errors', 1);
-ini_set('display_startup_errors', 1);
-error_reporting(E_ALL);
-?>
+<?php require_once 'includes/db_config.php'; ?>
 
 <!DOCTYPE html>
 <html lang="en">
@@ -116,7 +112,7 @@ error_reporting(E_ALL);
         }
     </style>
 
-    <!-- Demo Video Section -->
+    <!-- Demo Video Section
     <section id="demo" style="position: relative; z-index: 10; padding: 6rem 3rem; min-height: 600px; display: flex; align-items: center; justify-content: center;">
         <canvas id="demoStarfield" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 1;"></canvas>
         <div style="max-width: 1200px; width: 100%; text-align: center; position: relative; z-index: 2;">
@@ -127,12 +123,12 @@ error_reporting(E_ALL);
             <p class="hero-description" style="max-width: 600px; margin: 0 auto 3rem;">
                 See how SatTrack works in this quick demonstration video.
             </p>
-            <!-- Placeholder for video -->
+            <!-- Placeholder for video 
             <div style="background: rgba(255, 255, 255, 0.03); backdrop-filter: blur(10px); border: 1px solid var(--color-card-border); border-radius: 20px; padding: 3rem; min-height: 400px; display: flex; align-items: center; justify-content: center;">
                 <p style="color: var(--color-text-subheading); font-size: 1.1rem;">Demo video will be embedded here</p>
             </div>
         </div>
-    </section>
+    </section> -->
 
     <!-- FAQ section -->
     <section style="position: relative; z-index: 10; padding: 6rem 3rem; background: var(--color-background);">

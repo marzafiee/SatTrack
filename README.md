@@ -34,9 +34,7 @@
  | **Watchlist API (`api/add_watchlist.php`, `api/remove_watchlist.php`)** | AJAX endpoints to add/remove satellites from a personal watchlist.
  | **About (`about.php`) / Help (`help.php`)** | Project information, guides, and UI help.
  | **Developer/Test (`test.php`)** | Misc developer/testing utilities (not part of user-facing UI).
- 
- ---
- 
+
  ## Database Design - ERD Diagram
  <p align="center">
    <img src="documents/ERD_Diagram.png" alt="ERD diagram" width="700">
